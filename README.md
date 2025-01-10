@@ -23,4 +23,5 @@ Minimum-Jerk motion with rotation and inverse kinematics
 
 ![image](https://github.com/user-attachments/assets/46bbf242-b632-4fea-982c-cb495802e431)
 
+![image](https://github.com/user-attachments/assets/f440f5d6-cae3-4611-b1ea-e121edbecffa)
 
